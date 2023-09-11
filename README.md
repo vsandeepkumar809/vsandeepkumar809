@@ -9,7 +9,7 @@
 - 🌱 I'm actively acquiring knowledge in the field of Business Analysis.
 - 🤝 I'm seeking assistance and guidance in my pursuit of mastering Business Analysis.
 - 📫 You can contact me at sndpkmr809@gmail.com for any inquiries.
-- ⚡ Fun fact **Adventure buddy**
+- ⚡ Fun fact:   **Adventure buddy**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

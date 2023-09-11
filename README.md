@@ -5,14 +5,10 @@
 <img align="right" alt="Coding" width="400" src="https://matlensilver.com/wp-content/uploads/2021/07/IT-Staffing.gif">
 
 - 🔭 I'm presently engaged in activities related to Salesforce.
-
 - 🌱 I'm actively acquiring knowledge in the field of Business Analysis.
-
 - 🤝 I'm seeking assistance and guidance in my pursuit of mastering Business Analysis.
-
 - 📫 You can contact me at sndpkmr809@gmail.com for any inquiries or collaborations.
-
-- ⚡ Fun fact **Wanderfriend**
+- ⚡ Fun fact **Adventure buddy**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -27,13 +27,13 @@
 
 
 <h3 align="left">Education::</h3>
-<p align="left"> <a href="https://www.cognizant.com/in/en" target="_blank" rel="noreferrer"> <img src="https://www.bhavansvc.ac.in/img/bvc.png" alt="Cognizant" width="140" height="80"/>
+<p align="left"> <a href="https://www.bhavansvc.ac.in/" target="_blank" rel="noreferrer"> <img src="https://www.bhavansvc.ac.in/img/bvc.png" alt="Cognizant" width="140" height="80"/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sandeepkumar809" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sandeepkumar809" height="40" width="40" /></a> &nbsp;
 <a href="https://fb.com/sndpkmr809" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sndpkmr809" height="40" width="40" /></a> &nbsp;
 <a href="https://instagram.com/sndpkmr809" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sndpkmr809" height="40" width="40" /></a> &nbsp;
-<a href="https://www.youtube.com/c/sndpkmr809" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="sndpkmr809" height="50" width="50" /></a> &nbsp;
+<a href="https://www.youtube.com/channel/UCdgIM-NEVJ30HRNhwRY2t4Q" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="sndpkmr809" height="50" width="50" /></a> &nbsp;
 <a href="https://wa.me/+919542181245" target="blank"><img align="center" src="https://p7.hiclipart.com/preview/922/489/218/whatsapp-icon-logo-whatsapp-logo-png.jpg" alt="sndpkmr809" height="40" width="40" /></a> &nbsp;
 </p>

@@ -4,7 +4,7 @@
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sandeepkumar809&label=Profile%20views&color=0e75b6&style=flat" alt="sandeepkumar809" /> </p>
-<img align="right" alt="Coding" width="300" src="https://matlensilver.com/wp-content/uploads/2021/07/IT-Staffing.gif">
+<img align="right" alt="Coding" width="320" src="https://matlensilver.com/wp-content/uploads/2021/07/IT-Staffing.gif">
 
 
 <h3 align="left">🙋🏻‍♂️About me:</h3>

@@ -12,7 +12,7 @@
 - 🔭 I'm presently engaged in work related to Salesforce.
 - 🧠 I am actively gaining expertise in the Salesforce domain.
 - ⚽ Goal: Learn new concept at the end of every single month! 📖
-- 📨 You can contact me at sndpkmr809@gmail.com for any inquiries.
+- 📩 You can contact me at sndpkmr809@gmail.com for any inquiries.
 - ⚡ Fact about me : I love to win, but helping the team win gives me greater joy.
 
 <h3 align="left">🧑🏻‍💼Professional Experience:</h3>

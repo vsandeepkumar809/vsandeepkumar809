@@ -30,8 +30,7 @@
 <p align="left"> <a href="https://www.bhavansvc.ac.in/" target="_blank" rel="noreferrer"> <img src="https://www.bhavansvc.ac.in/img/bvc.png" alt="Cognizant" width="140" height="80"/>
 
 <h3 align="left">Click on the below icon for Free Online Courses With Certificates & Diplomas:</h3>
-<p align="left">
-<a href="https://alison.com/?utm_source=alison_user&utm_medium=affiliates&utm_campaign=27687669" target="blank"><img align="center" src="https://cdn01.alison-static.net/public/html/site/img/header/alison-free-courses.svg" alt="Alison" height="80" width="120" /></a>  </a> </p> 
+<a href="https://alison.com/?utm_source=alison_user&utm_medium=affiliates&utm_campaign=27687669" target="blank"><img align="center" src="https://cdn01.alison-static.net/public/html/site/img/header/alison-free-courses.svg" alt="Alison" height="40" width="120" /></a>  </a> 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -41,5 +40,6 @@
 <a href="https://www.youtube.com/channel/UCdgIM-NEVJ30HRNhwRY2t4Q" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="sndpkmr809" height="50" width="50" /></a> &nbsp;
 <a href="https://wa.me/+919542181245" target="blank"><img align="center" src="https://p7.hiclipart.com/preview/922/489/218/whatsapp-icon-logo-whatsapp-logo-png.jpg" alt="sndpkmr809" height="40" width="40" /></a> &nbsp;
 </p>
+
 
 

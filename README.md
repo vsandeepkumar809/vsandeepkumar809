@@ -26,7 +26,7 @@
 <p align="left">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://trailhead.salesforce.com/" target="_blank" rel="noreferrer"> <img src="https://developer.salesforce.com/resources2/certification-site/images/Certifications-logo/Administrator.png" alt="Admin" width="75" height="75"/> &nbsp;  </a> <a href="https://trailhead.salesforce.com" target="_blank" rel="noreferrer"> <img src="https://developer.salesforce.com/resources2/certification-site/images/Certifications-logo/Associate.png" alt="Associate" width="75" height="75"/> </a> </p> 
 
 <h3 align="left">🎓Education:</h3>
-<p align="left">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.bhavansvc.ac.in/" target="_blank" rel="noreferrer"> <img src="https://www.bhavansvc.ac.in/img/bvc.png" alt="Cognizant" width="140" height="80"/> </p> 
+<p align="left">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.bhavansvc.ac.in/" target="_blank" rel="noreferrer"> <img src="https://www.bhavansvc.ac.in/img/bvc.png" alt="bhavans" width="140" height="80"/> &nbsp;&nbsp <a href="https://www.bhavansvc.ac.in/" target="_blank" rel="noreferrer"> <img src="https://images.collegedunia.com/public/college_data/images/campusimage/156319324866c1.jpg" alt="Bhavans" width="140" height="80"/> </p> 
 
 <h3 align="left">🚨Click on the below icon for Free Online Courses With Certificates & Diplomas:</h3>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://alison.com/?utm_source=alison_user&utm_medium=affiliates&utm_campaign=27687669" target="blank"><img align="center" src="https://cdn01.alison-static.net/public/html/site/img/header/alison-free-courses.svg" alt="Alison" height="40" width="120" /></a>  </a>  </p> 

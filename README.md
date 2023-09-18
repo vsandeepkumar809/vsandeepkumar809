@@ -43,8 +43,8 @@
 
 <h3 align="left">📈 Github Stats:</h3> 
 <p align="left">
-<a href="https://github.com/sandeepkumar809">
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=sandeepkumar809&count_private=true&show_icons=true&theme=white" />
+<a href="https://github.com/vsandeepkumar809">
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=vsandeepkumar809&count_private=true&show_icons=true&theme=white" />
 </a> </a> </p>
 
 

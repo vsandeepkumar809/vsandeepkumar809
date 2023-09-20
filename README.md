@@ -1,8 +1,8 @@
-<h1 align="center">Hi There <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Sandeep Kumar </h1>
+<h1 align="center">Hi There 👋, Thank you for viewing my profile </h1>
 
-<h1 align="center">
+<h2>
  <img src="https://github.com/vsandeepkumar809/vsandeepkumar809/assets/144663783/981849a6-b7ed-4da7-8a11-016762f53fd0" />
-</h1>
+</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sandeepkumar809&label=Profile%20views&color=0e75b6&style=flat" alt="sandeepkumar809" /> </p>
 <img align="right" alt="Coding" width="320" src="https://matlensilver.com/wp-content/uploads/2021/07/IT-Staffing.gif">

@@ -1,7 +1,8 @@
 <h1 align="center">Hi There <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Sandeep Kumar </h1>
 
-![Purple Gradient Digital Marketing LinkedIn Banner](https://github.com/sandeepkumar809/sandeepkumar809/assets/144663783/bdd84c05-3ced-4509-b178-c48eec8f3b4c)
-
+<h1 align="center">
+ <img src="https://github.com/vsandeepkumar809/vsandeepkumar809/assets/144663783/7b54a198-72c0-41bb-8fed-dda00633d369" />
+</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sandeepkumar809&label=Profile%20views&color=0e75b6&style=flat" alt="sandeepkumar809" /> </p>
 <img align="right" alt="Coding" width="320" src="https://matlensilver.com/wp-content/uploads/2021/07/IT-Staffing.gif">

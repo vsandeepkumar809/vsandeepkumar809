@@ -37,7 +37,7 @@
 <a href="https://linkedin.com/in/sandeepkumar809" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sandeepkumar809" height="40" width="40" /></a> &nbsp;
 <a href="https://fb.com/sndpkmr809" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sndpkmr809" height="40" width="40" /></a> &nbsp;
 <a href="https://instagram.com/sndpkmr809" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sndpkmr809" height="40" width="40" /></a> &nbsp;
-<a href="https://www.youtube.com/channel/UCdgIM-NEVJ30HRNhwRY2t4Q" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="sndpkmr809" height="50" width="50" /> </a> &nbsp;
+<a href="https://mail.google.com/a//?view=cm&fs=1&to=sndpkmr809@gmail.com" target="blank"><img align="center" src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_512px.png" alt="sndpkmr809" height="40" width="50" /> </a> &nbsp;
 <a href="https://wa.me/+918328621806" target="blank"><img align="center" src="https://p7.hiclipart.com/preview/922/489/218/whatsapp-icon-logo-whatsapp-logo-png.jpg" alt="sndpkmr809" height="40" width="40" /> </a> &nbsp; <a href="https://calendly.com/sndpkmr809" target="blank"><img align="center" src="https://help.calendly.com/hc/article_attachments/10120456527767" alt="sndpkmr809" height="40" width="150" /> </a>
 </p>
 

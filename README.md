@@ -33,10 +33,6 @@
 <h3 align="left">⚠️ Click on the below icon for Free Online Courses With Certificates & Diplomas:</h3>
 <a href="https://alison.com/?utm_source=alison_user&utm_medium=affiliates&utm_campaign=27687669" target="blank"><img align="center" src="https://cdn01.alison-static.net/public/html/site/img/header/alison-free-courses.svg" alt="Alison" height="40" width="120" /></a>  </a>  </p> 
 
-<h3 align="left">🍿 Favorite Movies and Shows:</h3>
-<p align="left"> <a href="https://lucifergifs.tumblr.com/" target="_blank" rel="noreferrer"> <img src="https://i.gifer.com/origin/8c/8c8b5cbbc09567f17d7f64bfec4f5d80_w200.webp" alt="Lucifer" width="80" height="100"/> </a> </p> </a> 
-</p> 
-
 
 <h3 align="left">⛓️ Connect with me:</h3>
 <p align="left">

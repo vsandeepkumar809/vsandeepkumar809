@@ -10,12 +10,19 @@
 
 <h3 align="left">🙋🏻‍♂️ About me:</h3>
 
-- 🔭 I'm presently engaged in work related to Salesforce.
+- 🔭 IT Support Analyst
 - 🌟 I have 5 years of total experience.
-- 🧠 I am actively gaining expertise in the Salesforce domain.
 - ⚽ Goal: Learn new concept at the end of every single month! 📖
 - ⚡ Fact about me : I love to win, but helping the team win gives me greater joy.
 - 🏋🏻‍♂️ My Motivational quote: The only way to do GREAT WORK is to love what you do. If you haven't found it yet, keep looking. Don't settle. 
+
+<h3 align="left">🔨 Work I do:</h3>
+
+As a Technical Support Analyst, I help users with technical issues, troubleshoot problems, 
+maintain documentation, support hardware and software, provide remote assistance, ensure good customer service,
+escalate complex issues, conduct training sessions, prioritize security, manage software updates, 
+and monitor and report on system performance.
+
 
 <h3 align="left">🧑🏻‍💼 Professional Experience:</h3>
 <p align="left">  <a href="https://www.cognizant.com/in/en" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Cognizant%27s_logo.svg/1920px-Cognizant%27s_logo.svg.png" alt="Cognizant" width="90" height="40"/> &nbsp; </a> <a href="https://www.wipro.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/a/a0/Wipro_Primary_Logo_Color_RGB.svg" alt="android" width="45" height="45"/> </a> &nbsp;  </a> <a href="https://www.salesforce.com/in/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Salesforce.com_logo.svg/1280px-Salesforce.com_logo.svg.png" alt="android" width="60" height="40"/> </a>  </a> <a href="https://www.bell-integration.com/about-bell-integration/" target="_blank" rel="noreferrer"> <img src="https://www.bell-integration.com/wp-content/uploads/2023/01/Bell-Integrations-logo-full-colour.svg" alt="Techmahindra" width="80" height="40"/> </a> </a>

@@ -13,7 +13,7 @@
 <h3 align="left">🙋🏻‍♂️ About me:</h3>
 
 - 🔭 Senior IT Support Analyst
-- 🌟 I have 5 years of total experience.
+- 🌟 I have 6 Years 3 Months of total experience.
 - ⚽ Goal: Learn new concept at the end of every single month! 📖
 - ⚡ Fact about me : I love to win, but helping the team win gives me greater joy.
 - 🏋🏻‍♂️ My Motivational quote: The only way to do GREAT WORK is to love what you do. If you haven't found it yet, keep looking. Don't settle. 
